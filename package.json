@@ -1,0 +1,36 @@
+{
+  "name": "Discord_Selfbot",
+  "version": "2.2.0",
+  "description": "A selfbot created for discord. It is setup and ready to go in less than 5 min.",
+  "keywords": [
+    "discord",
+    "self",
+    "bot"
+  ],
+  "license": "MIT",
+  "main": "self.js",
+  "author": "The_Racing_Lion",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheRacingLion/Discord-SelfBot"
+  },
+  "scripts": {
+    "start": "node self.js"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRacingLion/Discord-SelfBot/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "eris": "^0.7.0",
+    "gumer-psn": "^0.2.0",
+    "moment": "^2.18.1",
+    "node-xbox": "^0.1.0",
+    "superagent": "^3.5.2",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {}
+}

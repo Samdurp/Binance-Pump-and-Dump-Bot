@@ -1,0 +1,43 @@
+{
+  "token": "",
+  "ownerID": "",
+  "prefix": "~",
+  "rotatePlayingGame": true,
+  "rotatePlayingGameTime" : 150000,
+  "rotatePlayingGameInStreamingStatus": false,
+  "rotateAvatarImage": true,
+  "rotateAvatarImageTime" : 600000,
+  "defaultStatus": "idle",
+  "PSN": {
+    "enabled": false,
+    "email": "Your PSN E-mail",
+    "password": "Your PSN password",
+    "psnID": "Your PSNid"
+  },
+  "XBOX": {
+    "enabled": false,
+    "gamertag": "Your XBOX Gamertag",
+    "apikey": "Your xboxapi.com apikey"
+  },
+  "mentionNotificator": {
+    "inConsole": true,
+    "inNotificationChannel": true,
+    "logBlockedUsers": false,
+    "ignoredServers": ["807857606232113163"]
+  },
+  "keywordNotificator": {
+    "inConsole": true,
+    "inNotificationChannel": true,
+    "logBlockedUsers": false,
+    "caseInsensitive": true,
+    "ignoredServers": ["807857606232113163"]
+  },
+  "eventNotificator": {
+    "inConsole": true,
+    "inNotificationChannel": true
+  },
+  "notificationChannelID": "807858005642444830",
+  "defaultEmbedColor": "#117ea6",
+  "deleteCommandMessages": true,
+  "deleteCommandMessagesTime": 15000
+}
