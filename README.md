@@ -12,4 +12,4 @@ Javascript bot created by [TheRacingLion](https://github.com/TheRacingLion) and 
 
 Python bot by me!
 
-PS... this is a Discord selfbot. It's against Discord's ToS to use a selfbot. Use at your own risk.
+PS... This is a Discord selfbot. It's against Discord's ToS to use a selfbot. Use at your own risk.
