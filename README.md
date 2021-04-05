@@ -7,6 +7,7 @@ To use:
 - Input your Binance.com (NOT BINANCE.US) public and private keys into the relevant fields in main.py
 - Input your Discord user token and ownerID in config.json in the "config" folder.
 - Run "MONEY.bat" (NOT "run.bat"), and then the Discord bot will scan for '$' characters. Once it finds one, it outputs what follows the '$' to output.txt. The rest is up to the python bot with your settings!
+- To reuse, delete output.txt and re-run the bot!
 
 Javascript bot created by [TheRacingLion](https://github.com/TheRacingLion) and edited by Brendan Jones
 
