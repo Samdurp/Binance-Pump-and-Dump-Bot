@@ -23,4 +23,4 @@ Javascript bot created by [TheRacingLion](https://github.com/TheRacingLion) and 
 
 Python bot by me!
 
-NOTE: This is a Discord selfbot. It is against Discord's terms of service to use a selfbot. Use at your own risk. We are not responsible for any losses, including but not limited to a ban or suspension of binance.com and/or Discord accounts, nor any financial losses.
+NOTE: This is a Discord selfbot. It is against Discord's terms of service to use a selfbot. Use at your own risk. We are not responsible for any losses, including but not limited to a ban or suspension of binance.com and/or Discord accounts, nor any financial losses you may incur by using this bot. This was a personal project and is not intended for serious use, be it commercial or personal.
